@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538575250 source:/home/rishabh/c++program/cryptocie/main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

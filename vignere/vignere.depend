@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538577630 source:/home/rishabh/c++program/vignere/main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
